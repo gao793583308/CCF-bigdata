@@ -9,4 +9,11 @@
      |--Three_exp.py
      |--average_model.py
 #### correlation.csv 是手动把训练集和测试集的相关性数据拼合起来，一共是539天的数据
-#### test_fund_retuen.csv 直接取比赛提供的测试基数据，未作处理
+#### test_fund_retuen.csv 直接取比赛提供的测试集数据，未作处理
+
+### 代码运行方式
+### 使用三次指数模型做出预测
+          python Three_exp.py
+### 使用均值模型做出预测
+          python average_model.py
+          
