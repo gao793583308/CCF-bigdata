@@ -3,7 +3,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 #bench_mark =  pd.read_csv("./train_data/train_fund_return.csv", index_col=0)
 #cor = pd.read_csv("./train_data/train_correlation.csv", index_col=0)
-bench_mark =  pd.read_csv("./data2/test_fund_return.csv", index_col=0)
+bench_mark =  pd.read_csv("./data/test_fund_return.csv", index_col=0)
 predict_len = 5
 alpha = 0.2
 move = 0
