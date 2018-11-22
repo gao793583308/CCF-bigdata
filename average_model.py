@@ -18,7 +18,7 @@ mean = np.zeros((MAXLEN,1))
 
 #%%
 correlation = np.zeros((MAXLEN,539))
-correlation_return = csv.reader(open('./data2/correlation.csv','r'))    #两个合并之后
+correlation_return = csv.reader(open('./data/correlation.csv','r'))    #两个合并之后
 next(correlation_return)
 i=0
 for line in correlation_return:
