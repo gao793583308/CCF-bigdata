@@ -8,3 +8,5 @@
          |--test_fund_return.csv
      |--Three_exp.py
      |--average_model.py
+#### correlation.csv 是手动把训练集和测试集的相关性数据拼合起来，一共是539天的数据
+#### test_fund_retuen.csv 直接取比赛提供的测试基数据，未作处理
